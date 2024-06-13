@@ -1,0 +1,53 @@
+
+objective as Devops :
+skills: programming language 
+query language 
+scripting language 
+operating system 
+cloud computing --aws
+aws servies:EC2,S3,EBS,ASG,ELB,ALB,VPC,CLOUDWATCH,SNS and RDS.
+DevOps Tools : git and GitHub 
+maven 
+jen
+docker/docker hub 
+ansible 
+terraform 
+kuber
+metodolgies:SDLC,Jira,Agile 
+
+web servers :Apche tomcat 
+nginx 
+ https://codeshare.io/0021030
+
+
+
+project :
+TITLE:
+Objective
+tools
+git repo 
+explanation 
+
+
+( user data )
+
+#!/bin/bash
+yum update -y 
+yum install httpd -y
+systemctl start httpd
+systemctl enable httpd 
+
+aws s3 cp sample.html s3://hellodevopsbucket/sample.html
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
